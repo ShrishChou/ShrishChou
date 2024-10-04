@@ -4,6 +4,7 @@ My name is Shrish and I'm an undergraduate studying computer science at MIT.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreeshfly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shrish-choudhary/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCHdp_vfHHIz5Ka5TTlK2YDg) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2CE2)](https://shrish-choudhary.onrender.com/) 
 
 ## Projects
 - **Auto Arm**: Complete computer vision system with stereo system and Intellisense Lidar camera with ability to setup optical layouts with 0.1 mm precision and on the go fine tuning
