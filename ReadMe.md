@@ -8,7 +8,8 @@ My name is Shrish and I'm an undergraduate studying computer science at MIT.<br>
 
 ## Projects
 - **Auto Arm**: Complete computer vision system with stereo system and Intellisense Lidar camera with ability to setup optical layouts with 0.1 mm precision and on the go fine tuning
-- **wound**: Android app created to detect infections in surgical wounds using Tensorflow light models to allow for serverless detection
+- **Wound**: Android app created to detect infections in surgical wounds using Tensorflow light models to allow for serverless detection
+- **CategoreMail**: A fullstack application that is able to find what you view as improtant based on your recent emails
 - **Result Analysis**: Django app with AWS-RDS PostgreSQL database that analyzed data on varsity tennis players and made predictions for future match outcomes
 - **Tennis Shot Detection**: Custom CNN to detect different shots of tennis players used in shot detection to analyze player performances.
 
